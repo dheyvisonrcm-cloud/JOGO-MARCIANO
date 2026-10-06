@@ -72,7 +72,7 @@ Um jogo de adivinhação em Java onde o jogador precisa descobrir em qual árvor
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/jogo-do-marciano.git
+git clone https://github.com/dheyvisonrcm-cloud/jogo-do-marciano.git
 
 2. Rode a classe Main na sua IDE
 
