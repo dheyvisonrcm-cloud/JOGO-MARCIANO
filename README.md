@@ -1,8 +1,7 @@
 📄 Licença
 Este projeto foi desenvolvido para fins acadêmicos (Trabalho da Disciplina de CODING).
-Autor
 
-**Dheyvison Macedo**
+**Autor: Dheyvison Macedo**
 - GitHub: [@dheyvisonrcm-cloud](https://github.com/dheyvisonrcm-cloud)
 - LinkedIn: [dheyvison-macedo](https://www.linkedin.com/in/dheyvison-macedo)
 
